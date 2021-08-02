@@ -29,11 +29,11 @@ Data visualization takes data and presents it in a graphical form. Data visualiz
 
 For a glossary of data visualization-related terms, please refer to the [data visualization guide](https://guides.lib.uw.edu/datavisualization/glossary "data visualization guide"). 
 
-Mona Chalabi, "When Americans eat pizza"
+**Mona Chalabi, "When Americans eat pizza"**
 
 <img src="https://pbs.twimg.com/media/DVnPimwU0AEaI21?format=jpg&name=small" alt="Hand drawn data visualization by Mona Chalabi of a pizza depicting that most Americans eat pizza as a snack" width="550"/>
 
-*Dear Data*, "A week of media," Giorgia Lupi
+***Dear Data*, "A week of media," Giorgia Lupi**
 
 <img src="https://images.squarespace-cdn.com/content/v1/54eec73ee4b0ae0904da0e94/1433941845707-GH4P0OIO244E3KNZ0MMG/Giorgia_DearData_27_Back.jpg?format=1000w" alt="Hand drawn data visualization by Giorgia Lupi depicting the key to a visualization about time and type of media consumed in a particular week" width="550"/> 
 
