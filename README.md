@@ -43,4 +43,4 @@ This session will cover the basics of data visualization, including:
 
 ## Questions ##
 * There will be an ongoing discussion post where you can feel free to ask questions of other members of this cohort. I will be monitoring the post throughout the session. 
-* For any questions you would like to ask privately, please email me at negeena@uw.edu. 
+* For any questions you would like to ask privately, please email me at negeena@uw.edu. I would love to hear from you all, so please don't hesitate to reach out! 
