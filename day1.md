@@ -26,3 +26,5 @@ Some examples of data might include:
 Data can be composed of digital and analog records, can be quantitative, qualitative, or geospatial, and so on. It might exist in spreadsheet software or on the back of a napkin. You likely come across data everyday, even if it's not always remarkable! 
 ## What is data visualization? 
 Data visualization takes data and presents it in a graphical form. Data visualizations can be created by specific software, digital technologies, or even by hand. Below are some examples of data visualizations. 
+
+For a glossary of data visualization-related terms, please refer to the [data visualization guide](https://guides.lib.uw.edu/datavisualization/glossary "data visualization guide"). 
