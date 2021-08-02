@@ -16,7 +16,7 @@ This session will cover the basics of data visualization, including:
   * How to read a data visualization
   * Design principles
   * Synchronous session: 12-1 pm Pacific, introductions, overview of the session 
-  * Discussion post: introduce yourself! 
+  * [Discussion post: introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "Discussion post: introduce yourself!")
 
 * [Day 2 (Tuesday, August 10)](https://github.com/negeenaghassi/osssdv/tree/main/Day%202 "Day 2 (Tuesday, August 10)")
   * Structured/unstructured data
