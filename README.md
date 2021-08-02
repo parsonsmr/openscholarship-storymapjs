@@ -7,7 +7,7 @@ This session is not meant to be a comprehensive course on data visualization and
 This session requires a commitment of 8-10 hours during the week of August 9-13, 2021. It will consist of a mix of asynchronous learning and synchronous discussion. 
 ## Topic overview ##
 This session will cover the basics of data visualization, including:
-* Day 1 (Monday, August 9)
+* [Day 1 (Monday, August 9)](https://github.com/negeenaghassi/osssdv/tree/main/Day1 "Day 1 (Monday, August 9)")
   * Introductions
   * What is data? What is data visualization?
   * Types of data and file types
@@ -18,7 +18,7 @@ This session will cover the basics of data visualization, including:
   * Synchronous session: 12-1 pm Pacific, introductions, overview of the session 
   * Discussion post: introduce yourself! 
 
-* Day 2 (Tuesday, August 10)
+* [Day 2 (Tuesday, August 10)](https://github.com/negeenaghassi/osssdv/tree/main/Day%202 "Day 2 (Tuesday, August 10)")
   * Structured/unstructured data
   * Data cleaning
   * Developing a visualization
