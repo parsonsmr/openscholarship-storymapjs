@@ -28,3 +28,6 @@ Data can be composed of digital and analog records, can be quantitative, qualita
 Data visualization takes data and presents it in a graphical form. Data visualizations can be created by specific software, digital technologies, or even by hand. Below are some examples of data visualizations. 
 
 For a glossary of data visualization-related terms, please refer to the [data visualization guide](https://guides.lib.uw.edu/datavisualization/glossary "data visualization guide"). 
+
+Mona Chalabi, "When Americans eat pizza"
+![Hand drawn visualization by Mona Chalabi of a pizza depicting that most Americans eat pizza as a snack](https://pbs.twimg.com/media/DVnPimwU0AEaI21?format=jpg&name=small)
