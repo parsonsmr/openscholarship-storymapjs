@@ -1,6 +1,8 @@
 # Open Scholarship Summer Series 2021: Data Visualization
 ## Introduction ##
 Welcome to the Open Scholarship Summer Series! My name is Negeen (she/her) and I am a data visualization librarian at the UW Libraries. I will also be the point person for this session. This summer session runs through August 9-13, 2021 and is hosted by the University of Washington Libraries Open Scholarship Summer Series program. This session is intended to be an introduction to data visualization for all disciplines. 
+
+This session is not meant to be a comprehensive course on data visualization and many of the suggestions here (and that you may come across in other data visualization spaces/workshops) are not hard and fast rules. Feel free to push outside of the boundaries presented in this session and experiment! Critical thinking and inclusive approaches are the best tools when creating visualizations. 
 ## Session schedule ##
 This session requires a commitment of 8-10 hours during the week of August 9-13, 2021. It will consist of a mix of asynchronous learning and synchronous discussion. 
 ## Topic overview ##
