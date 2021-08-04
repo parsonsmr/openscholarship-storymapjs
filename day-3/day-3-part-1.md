@@ -29,6 +29,10 @@ When we look at how the United States defines race, we see that “white” actu
 
 According to the US government, there are a few specific racial categories, a category for 2 or more races (though it often does not matter which 2 or more races), and an "other" category. Given the complexity of how to define race, it is difficult to see how only a few categories of race are sufficient to capture the full identities of people. This oversimplification of racial data makes it very easy for computers to process and for analyzers to make comparisons and for those in power to make decisions based on the supposedly objective data (where there are no other answers and everything fits cleanly into these categories). However, what this does is fail to recognize the full depth of individual histories and identities.
 
-Let's say that we decide that we'll just expand our categories -- a good example of this is Statistics Canada, which has many more categories. It’s more in depth, but still, this approach strips away some pieces of that person’s identity so that they are easier for a computer to process. 
+Let's say that we decide that we'll just expand our categories -- a good example of this is Statistics Canada, which has many more categories. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/statistics-canada.png" alt="Statistics Canada race categories showing more specific definitions of race" width="550"/>
+
+It’s more in depth, but still, this approach strips away some pieces of that person’s identity so that they are easier for a computer to process. 
 
 Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage").
