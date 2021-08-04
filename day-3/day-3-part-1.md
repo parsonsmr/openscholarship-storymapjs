@@ -29,3 +29,4 @@ According to the US government, there are a few specific racial categories, a ca
 
 Let's say that we decide that we'll just expand our categories -- a good example of this is Statistics Canada, which has many more categories. It’s more in depth, but still, this approach strips away some pieces of that person’s identity so that they are easier for a computer to process. 
 
+Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-1 "Day 3, Part 2).
