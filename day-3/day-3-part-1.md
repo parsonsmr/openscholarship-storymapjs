@@ -25,7 +25,7 @@ Let's look at an example:
 
 When we look at how the United States defines race, we see that “white” actually comprises of large groups of people who likely have different lived experiences, bodies, and histories. 
 
-<img src="https://github.com/negeenaghassi/openscholarship-dataviz/blob/gh-pages/images/census.png" alt="US Census race categories showing broad definitions of race" width="550"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/census.png" alt="US Census race categories showing broad definitions of race" width="550"/>
 
 According to the US government, there are a few specific racial categories, a category for 2 or more races (though it often does not matter which 2 or more races), and an "other" category. Given the complexity of how to define race, it is difficult to see how only a few categories of race are sufficient to capture the full identities of people. This oversimplification of racial data makes it very easy for computers to process and for analyzers to make comparisons and for those in power to make decisions based on the supposedly objective data (where there are no other answers and everything fits cleanly into these categories). However, what this does is fail to recognize the full depth of individual histories and identities.
 
