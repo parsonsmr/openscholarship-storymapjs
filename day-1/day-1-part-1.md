@@ -41,4 +41,4 @@ For a glossary of data visualization-related terms, please refer to the [data vi
 <img src="https://images.squarespace-cdn.com/content/v1/54eec73ee4b0ae0904da0e94/1433941843429-VKOJQ8KMRSGLMLRTBCGO/Giorgia_DearData_27_Front.jpg?format=1000w" alt="Hand drawn data visualization by Giorgia Lupi depicting a visualization about time and type of media consumed in a particular week" width="550"/> 
 
 ## Part 2
-Whenever you're ready, proceed to [Day 1, Part 2](https://github.com/negeenaghassi/osssdv/blob/main/Day%201/Day1part2.md "Day 1, Part 2"). 
+Whenever you're ready, proceed to [Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2"). 
