@@ -57,4 +57,13 @@ Abigail Echo-Hawk from the Urban Indian Health Institute mentions in an [intervi
 
 This is just one example of how decisions we make about how our data are structured can make people and communities invisible in our data. 
 
-Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage").
+This practice shows up in gender and data as well. There are either two ("male/female") or three ("male/female/other") categories. The "other" category exists as an attempt to capture gender identities existing outside of the binary structures that attempt to dominate systems -- though it does, both literally and in practice, "other"  nonbinary identities. The data structures that exist were not developed to capture anything beyond the binary, as described in the following publication by the MIT Center for Civic Media, ["A Primer on Non-Binary Gender and Big Data"](https://civic.mit.edu/2016/06/03/a-primer-on-non-binary-gender-and-big-data/ "A Primer on Non-Binary Gender and Big Data"):
+
+*“…non-binary gender and data represents complicated terrain for computational applications for numerous reasons. But we have an ethical and empirical imperative to tackle this complexity.”*
+
+Of course, there is a balance with these issues. While it’s important to make sure that people are represented in the ways that they want to be represented in data, it is also important to avoid identifying them in  data, particularly with minority groups with a smaller population. Though there isn’t a perfect solution to this question, it might help to consider this on a case by case basis and find the spot where where there is a low risk of identifying people and a high potential benefit to them as well. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/identifiablechart.png
+" alt="Chart demonstrating where there are benefits and risks of providing more detailed information in data." width="550"/>
+
+This part of Day 3 is meant to set up some of the more abstract framing around these issues. Part 2 will look at potential solutions and more concrete examples. Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage").
