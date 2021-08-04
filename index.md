@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# Open Scholarship Summer Series 2021: Data Visualization
+## Introduction ##
+Welcome to the Open Scholarship Summer Series! My name is Negeen (she/her) and I am a data visualization librarian at the UW Libraries. I will also be the point person for this session. This summer session runs through August 9-13, 2021 and is hosted by the University of Washington Libraries Open Scholarship Summer Series program. This session is intended to be an introduction to data visualization for all disciplines. 
 
-You can use the [editor on GitHub](https://github.com/negeenaghassi/osssdv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This session is not meant to be a comprehensive course on data visualization and many of the suggestions here (and that you may come across in other data visualization spaces/workshops) are not hard and fast rules. Feel free to push outside of the boundaries presented in this session and experiment! Critical thinking and inclusive approaches are the best tools when creating visualizations. 
+## Session schedule ##
+This session requires a commitment of 8-10 hours during the week of August 9-13, 2021. It will consist of a mix of asynchronous learning and synchronous discussion. 
+## Topic overview ##
+This session will cover the basics of data visualization, including:
+* [Day 1 (Monday, August 9)](https://github.com/negeenaghassi/osssdv/tree/main/Day1 "Day 1 (Monday, August 9)")
+  * Introductions
+  * What is data? What is data visualization?
+  * Types of data and file types
+  * Overview of tools
+  * Why visualize? 
+  * How to read a data visualization
+  * Design principles
+  * Synchronous session: 12-1 pm Pacific, introductions, overview of the session 
+  * [Discussion post: introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "Discussion post: introduce yourself!")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Day 2 (Tuesday, August 10)](https://github.com/negeenaghassi/osssdv/tree/main/Day%202 "Day 2 (Tuesday, August 10)")
+  * Structured/unstructured data
+  * Data cleaning
+  * Developing a visualization
+  * Chart types
+  * Design elements
+  * Basic math
+  * Introduction to data visualization tool for this session
 
-### Markdown
+* Day 3 (Wednesday, August 11)
+  * Equity, diversity, and inclusion in data visualization
+  * Uncertainty and empathy in data visualization
+  * Accessibility
+  * Data storytelling
+  * Discussion post: rewriting best practices to be more inclusive
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Day 4 (Thursday, August 12)
+  * Find and clean a dataset
+  * Develop a visualization
+  * Synchronous session: 9-10 am Pacific, workshop time
 
-```markdown
-Syntax highlighted code block
+* Day 5 (Friday, August 13)
+  * Share out visualizations
+  * Questions and wrap up
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/negeenaghassi/osssdv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Questions ##
+* There will be an ongoing discussion post where you can feel free to ask questions of other members of this cohort. I will be monitoring the post throughout the session. 
+* For any questions you would like to ask privately, please email me at negeena@uw.edu. I would love to hear from you all, so please don't hesitate to reach out! 
