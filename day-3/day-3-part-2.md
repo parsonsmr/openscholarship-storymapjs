@@ -66,3 +66,5 @@ This representation of Indigenous communities in survey responses not only refle
 ### Day 3 readings
 * (reading 1)
 * (reading 2) 
+
+Whenever you are ready, proceed to [Day 4, Part 1](https://negeenaghassi.github.io/openscholarship-dataviz/day-4/day-4-part-1 "Day 4, Part 1") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
