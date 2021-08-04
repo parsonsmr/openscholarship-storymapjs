@@ -1,3 +1,4 @@
+[< Day 2, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-2 "Day 2, Part 2") | [Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 3, Part 2 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2")
 ## Day 3, Part 1
 Welcome to Day 3! Today's focus is going to be on data visualization and inclusion and accessibility. A visualization is not useful if it is not accessible by readers and can be harmful when it is not inclusive and reinforces biases. 
 
