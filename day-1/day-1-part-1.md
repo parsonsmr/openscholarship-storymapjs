@@ -1,4 +1,4 @@
-## Day 1 Part 1
+## Day 1, Part 1
 Welcome to Day 1 of the session! Today, we'll be covering: 
 * What is data? What is data visualization?
 * Types of data and file types
