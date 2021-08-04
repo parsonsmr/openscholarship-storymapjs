@@ -45,4 +45,10 @@ Mona Chalabi, a data editor and artist, sketches this situation in "Choices":
 
 <img src="https://pbs.twimg.com/media/EkOG_HBXcAo9HKe?format=jpg&name=900x900" alt="Comic depicting a self-identified Arab person looking stressed over clicking on a button to represent their race and not finding one that fits. " width="550"/>
 
+Another way that harm is inflicted on minoritized groups is through the "othering" of them in data. The following example uses a subset of demographic data from Washington Counties, as made available by the [Washington Office of Financial Management 2010 Census detailed demographic profile](https://www.ofm.wa.gov/washington-data-research/population-demographics/decennial-census/census-2010/2010-census-detailed-demographic-profiles/county-2010-census-detailed-demographic-profile "Washington Office of Financial Management 2010 Census detailed demographic profile"). 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/wacountiesothering.png" alt="Bar chart of racial minorities in select Washington counties." width="550"/>
+
+This chart looks at what have been categorized as “identified races” that are still oversimplified, but are not “other” -- Black or African American, American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander -- and “other or two or more races” -- categories that have no information about the people who responded except that they did not fit into the few choices that the survey provided. This contributes to othering and erasing those identities for the purpose of making it easier for a computer or program to analyze. To be transparent, this chart includes only racial minorities and highlights counties where this issue is the most prevalent. Still, some populous counties, such as Yakima and Franklin, have a large proportion of people of color who have been othered in the data. 
+
 Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage").
