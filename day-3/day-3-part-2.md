@@ -38,3 +38,21 @@ All of this information leads to the conclusion that data is not neutral. Each o
 * Did they document the decisions they made when cleaning the data? 
 * Who has been made invisible or erased in the data? 
 * Who has been prioritized in the data? 
+### Inclusive design choices
+The rest of this part will look at specific areas of visualization and design choices that can be made more inclusive. 
+
+#### Icons and images
+Icons and images show up in visualizations often it can be helpful to remember that they are not immune from sociocultural influences and social and racial inequities. They can reinforce stereotypes and white normative structures if there isn't care in selecting them.
+
+For example, in this search for “CEO” in the Google Slides image search, the results lead to a fairly homogeneous set of results -- all seemingly white people with masculine features. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/ceosearch.png" alt="Google Slides image search of a CEO depicting seemingly white people with masculine features" width="550"/>
+
+However, in this search for “nurse,” the first five results show a much more diverse set of people who were not at all present in the search for “CEO.” 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/nursesearch.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+
+Using a stock image of a CEO as shown above can reinforce the idea that CEOs (or other positions of power) are white men and exclude racial and gender minorities from that role. 
+
+#### Language
+
