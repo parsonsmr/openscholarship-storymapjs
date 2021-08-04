@@ -35,4 +35,14 @@ Let's say that we decide that we'll just expand our categories -- a good example
 
 It’s more in depth, but still, this approach strips away some pieces of that person’s identity so that they are easier for a computer to process. 
 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/personaprofile.png" alt="Arrow indicating increasingly more robust definitions of race between US Census, Statistics Canada, and self-reporting" width="550"/>
+
+When comparing these three different ways of identifying, it's clear that the ability for these data structures to capture an identity fully sit far from each other. If this data were to be used to, for example, determine where to bring in funding or support, some people and communities could fall through the cracks. 
+
+Perhaps more importantly, it can be harmful to someone who does not fit within these predetermined structures to not feel seen or recognized. This approach to gathering data can *ex*clude people by oversimplifying identities. 
+
+Mona Chalabi, a data editor and artist, sketches this situation in "Choices":
+
+<img src="https://pbs.twimg.com/media/EkOG_HBXcAo9HKe?format=jpg&name=900x900" alt="Comic depicting a self-identified Arab person looking stressed over clicking on a button to represent their race and not finding one that fits. " width="550"/>
+
 Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage").
