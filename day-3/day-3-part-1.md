@@ -51,4 +51,10 @@ Another way that harm is inflicted on minoritized groups is through the "otherin
 
 This chart looks at what have been categorized as “identified races” that are still oversimplified, but are not “other” -- Black or African American, American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander -- and “other or two or more races” -- categories that have no information about the people who responded except that they did not fit into the few choices that the survey provided. This contributes to othering and erasing those identities for the purpose of making it easier for a computer or program to analyze. To be transparent, this chart includes only racial minorities and highlights counties where this issue is the most prevalent. Still, some populous counties, such as Yakima and Franklin, have a large proportion of people of color who have been othered in the data. 
 
+Abigail Echo-Hawk from the Urban Indian Health Institute mentions in an [interview](https://crosscut.com/2019/05/abigail-echo-hawk-art-and-science-decolonizing-data "interview") the ways in which data is harmful to Indigenous communities: 
+
+*“One of the ways that there is a continuing genocide against American Indians/Alaska Natives is through data. When we are invisible in the data, we no longer exist. When I see an asterisk that says “not statistically significant,” or they lump us together with Pacific Islanders and Asian Americans – you can’t lump racial groups together. That is bad data practice.”* 
+
+This is just one example of how decisions we make about how our data are structured can make people and communities invisible in our data. 
+
 Whenever you're ready, proceed to [Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage").
