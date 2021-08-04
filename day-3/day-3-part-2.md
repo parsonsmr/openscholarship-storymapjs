@@ -62,3 +62,7 @@ One example of harmful erasure occurred during coverage of the 2020 United State
 <img src="https://nativephilanthropy.org/wp-content/uploads/2020/11/SOMETHING-ELSE-1-web-585x329.jpg" alt="CNN chart during the 2020 US presidential election where they labeled Indigenous people in the United States as 'something else'" width="550"/>
 
 This representation of Indigenous communities in survey responses not only reflects a harmful attempt at erasure, but also the othering of Native Americans in the United States. The Native Americans in Philanthropy organization published ["Indigenous Identity: A Starting Guide to Names, Labels & Terminology Used to Describe Indigenous Peoples."](https://nativephilanthropy.org/2020/11/24/indigenous-identity-more-than-something-else/ "Indigenous Identity: A Starting Guide to Names, Labels & Terminology Used to Describe Indigenous Peoples.")
+
+### Day 3 readings
+* (reading 1)
+* (reading 2) 
