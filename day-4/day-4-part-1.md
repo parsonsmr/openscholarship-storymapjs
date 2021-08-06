@@ -1,4 +1,6 @@
 [< Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") | [Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 4, Part 2 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-4/day-4-part-2 "Day 4, Part 2")
+
+Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
 ## Day 4, Part 1
 Welcome to Day 4! Today will cover accessibility and data visualization. 
 ### Accessibility
