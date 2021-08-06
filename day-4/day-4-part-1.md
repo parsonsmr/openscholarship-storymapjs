@@ -1,4 +1,6 @@
+[< Day 3, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-2 "Day 3, Part 2") | [Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 4, Part 2 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-4/day-4-part-2 "Day 4, Part 2")
 ## Day 4, Part 1
+Welcome to Day 4! Today will cover accessibility and data visualization. 
 ### Accessibility
 While equity, diversity, and inclusion have become increasingly more common in discussions about data visualization, accessibility is another critical element that deserves to be addressed as well. Accessibility sits at the foundation of inclusive data visualization design and is not an option or feature that can be turned on or off. While there are no formal around creating accessible data visualizations in the same way that there are for general web design, it can be helpful to make progress, even if not perfect. 
 
