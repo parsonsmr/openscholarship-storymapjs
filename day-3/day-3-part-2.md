@@ -81,7 +81,9 @@ Or, if you’re doing your research or analysis on racial minorities, for exampl
 #### Visual spaces/colors
 Another strategy to be more inclusive in data visualization is to inspect your visualization for any visual divides you may have created that prioritize one group over another. The amount of square inches on the screen can often correlate to the perceived importance or value of something. An example of how this happens with color is using gray to represent “other” values. 
 
+In the chart below, the colors of the “other race” and “two or more races” categories are similar shades of gray. These two categories somewhat blend into the background of the chart and are made almost invisible in some of the bars. That can indicate a perceived lack of value to those who did not identify with any of the other categories. 
 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/otherasgray.png" alt="Stacked bar chart showing racial minorities in Washington counties with a gray color representing the "other" category." width="750"/>
 
 ### Day 3 readings
 * (reading 1)
