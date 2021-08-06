@@ -92,18 +92,13 @@ Borders do not always represent people, and a great example of this can be seen 
 
 <img src="https://thekurdishproject.org/wp-content/uploads/2015/11/11907164_1658887681023782_5337654842828259130_o.png" alt="Map of where the Kurdish people are located within the Middle East, specifically spread over Turkey, Syria, Iraq, and Iran." width="550"/>
 
-### Accessibility
-While equity, diversity, and inclusion have become increasingly more common in discussions about data visualization, accessibility is another critical element that deserves to be addressed as well. Accessibility sits at the foundation of inclusive data visualization design and is not an option or feature that can be turned on or off. While there are no formal around creating accessible data visualizations in the same way that there are for general web design, it can be helpful to make progress, even if not perfect. 
-
-One of the guiding principles of this work is universal design -- designing for everyone regardless of disability. The comic below depicts a person in a wheelchair who says, “Could you please shovel the ramp?” A person shoveling some stairs responds, “All these other kids are waiting to use the stairs. When I get through shoveling them off, then I will clear the ramp for you.” The person in the wheelchair responds, “But if you shovel the ramp, we can all get in!”
-
-<img src="http://etec.ctlt.ubc.ca/510wiki/images/4/47/Clearing_a_pat.png" alt="Comic that demonstrates Universal Design using the example of clearing a ramp rather than stairs to give everyone in the comic access to a building." width="550"/>
-
-This comic demonstrates how universal design is beneficial for all. This approach to data visualization can help make visualizations more accessible for all. 
-
-
 ### Day 3 readings
-* (reading 1)
-* (reading 2) 
+These are just a few ways to think more critically about data visualization and create more inclusive designs. This is not a comprehensive list! For further conversations about this topic, check out the Day 3 readings: 
+* [Datassist, "How Not to Visualize Like a Racist (Data Viz Designing Across Cultures)"](https://idatassist.com/how-not-to-visualize-like-a-racist/ "How Not to Visualize Like a Racist (Data Viz Designing Across Cultures")
+* [Alison Booth, "It’s time for data visualizations to be more inclusive of gender information," Poynter, March 3, 2021](https://www.poynter.org/reporting-editing/2021/its-time-for-data-visualizations-to-be-more-inclusive-of-gender-information/ "Alison Booth, 'It’s time for data visualizations to be more inclusive of gender information,' Poynter, March 3, 2021")
+* [Heather Krause, "Is Feminist Data Visualization Actually a Thing? (Yes, and How!)," guest post on Evergreen Data blog](https://stephanieevergreen.com/feminist-data-visualization/ "Heather Krause, 'Is Feminist Data Visualization Actually a Thing? (Yes, and How!),' guest post on Evergreen Data blog")
+
+### Discussion
+There is a [discussion for Day 3](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/4 "discussion for Day 3"). Please take a few minutes to contribute to the discussion if you can. If you have any questions, don't hesitate to reach out! 
 
 Whenever you are ready, proceed to [Day 4, Part 1](https://negeenaghassi.github.io/openscholarship-dataviz/day-4/day-4-part-1 "Day 4, Part 1") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
