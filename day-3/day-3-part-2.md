@@ -41,6 +41,7 @@ All of this information leads to the conclusion that data is not neutral. Each o
 * Did they document the decisions they made when cleaning the data? 
 * Who has been made invisible or erased in the data? 
 * Who has been prioritized in the data? 
+
 ### Inclusive design choices
 The rest of this part will look at specific areas of visualization and design choices that can be made more inclusive. 
 
