@@ -63,6 +63,26 @@ One example of harmful erasure occurred during coverage of the 2020 United State
 
 This representation of Indigenous communities in survey responses not only reflects a harmful attempt at erasure, but also the othering of Native Americans in the United States. The Native Americans in Philanthropy organization published ["Indigenous Identity: A Starting Guide to Names, Labels & Terminology Used to Describe Indigenous Peoples."](https://nativephilanthropy.org/2020/11/24/indigenous-identity-more-than-something-else/ "Indigenous Identity: A Starting Guide to Names, Labels & Terminology Used to Describe Indigenous Peoples.")
 
+#### Order
+The order of the categories are important as well. What do the readers of your visualization see when they first look at it? What they see first can often set the benchmark upon which they judge other categories. For example, “white” is often the first option in race/ethnicity questions in the Census and in visualizations of racial data, which creates a divide between those who respond as white and other racial categories. This may be because of the ways in which white supremacy filters into parts of our structures, such as the Census, and can also be because of population size. Some alternatives to categorizing by size are to categorize alphabetically, by stakeholder group, and so on. 
+
+For example, in this chart showing the population by race in Washington, white shows up first and is significantly bigger than the other categories in terms of population. What this does, then, is make us compare everything that comes after that to the first bar, thereby setting white as the default or the norm. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbysize.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+
+In this next example, the data is sorted alphabetically, which is a different way than size to view the visualization and doesn’t automatically put the largest variable as the default or benchmark. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbyalphabet.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+
+Or, if you’re doing your research or analysis on racial minorities, for example, then it might help to only focus on those groups in your visualization so that they don’t get lost among other data points. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbystakeholder.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+
+#### Visual spaces/colors
+Another strategy to be more inclusive in data visualization is to inspect your visualization for any visual divides you may have created that prioritize one group over another. The amount of square inches on the screen can often correlate to the perceived importance or value of something. An example of how this happens with color is using gray to represent “other” values. 
+
+
+
 ### Day 3 readings
 * (reading 1)
 * (reading 2) 
