@@ -83,7 +83,7 @@ Another strategy to be more inclusive in data visualization is to inspect your v
 
 In the chart below, the colors of the “other race” and “two or more races” categories are similar shades of gray. These two categories somewhat blend into the background of the chart and are made almost invisible in some of the bars. That can indicate a perceived lack of value to those who did not identify with any of the other categories. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/otherasgray.png" alt="Stacked bar chart showing racial minorities in Washington counties with a gray color representing the "other" category." width="750"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/otherasgray.png" alt="Stacked bar chart showing racial minorities in Washington counties with a gray color representing the 'other' category." width="750"/>
 
 ### Day 3 readings
 * (reading 1)
