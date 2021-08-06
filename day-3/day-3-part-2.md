@@ -90,7 +90,7 @@ When reading or creating a map, it can help to think about who created the borde
 
 Borders do not always represent people, and a great example of this can be seen in the [map below created by The Kurdish Project](https://thekurdishproject.org/kurdistan-map/ "map below created by The Kurdish Project"). It shows how the Kurdish people are distributed across four borders, none of which are a Kurdish state. There is a tension here between where people live, who they are, and how they are or are not represented on certain maps. 
 
-<img src="https://thekurdishproject.org/wp-content/uploads/2015/11/11907164_1658887681023782_5337654842828259130_o.png" alt="Map of where the Kurdish people are located within the Middle East, specifically spread over Turkey, Syria, Iraq, and Iran." width="750"/>
+<img src="https://thekurdishproject.org/wp-content/uploads/2015/11/11907164_1658887681023782_5337654842828259130_o.png" alt="Map of where the Kurdish people are located within the Middle East, specifically spread over Turkey, Syria, Iraq, and Iran." width="550"/>
 
 ### Day 3 readings
 * (reading 1)
