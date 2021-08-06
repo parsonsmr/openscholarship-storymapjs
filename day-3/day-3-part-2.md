@@ -68,15 +68,15 @@ The order of the categories are important as well. What do the readers of your v
 
 For example, in this chart showing the population by race in Washington, white shows up first and is significantly bigger than the other categories in terms of population. What this does, then, is make us compare everything that comes after that to the first bar, thereby setting white as the default or the norm. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbysize.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbysize.png" alt="Bar chart showing Washington's population by race with white being the first category that is significantly larger in population." width="750"/>
 
 In this next example, the data is sorted alphabetically, which is a different way than size to view the visualization and doesn’t automatically put the largest variable as the default or benchmark. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbyalphabet.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbyalphabet.png" alt="Washington's population by race sorted alphabetically." width="750"/>
 
 Or, if you’re doing your research or analysis on racial minorities, for example, then it might help to only focus on those groups in your visualization so that they don’t get lost among other data points. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbystakeholder.png" alt="Google Slides image search of nurses depicting some racial and gender diversity" width="550"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/popbystakeholder.png" alt="Bar chart of Washington population by racial minority." width="750"/>
 
 #### Visual spaces/colors
 Another strategy to be more inclusive in data visualization is to inspect your visualization for any visual divides you may have created that prioritize one group over another. The amount of square inches on the screen can often correlate to the perceived importance or value of something. An example of how this happens with color is using gray to represent “other” values. 
