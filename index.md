@@ -45,9 +45,9 @@ This session will cover the basics of data visualization, including:
 * [Day 5 (Friday, August 13)](https://negeenaghassi.github.io/openscholarship-dataviz/day-5/day-5-part-1 "Day 5 (Friday, August 13)")
   * Project work time
   * How to share your visualization
-  * [Discussion: show and tell](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Discussion: show and tell")
+  * [Discussion post: show and tell](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Discussion: show and tell")
   * Questions and wrap up
 
 ## Questions ##
-* There will be an [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") where you can feel free to ask questions of other members of this cohort. I will be monitoring the post throughout the session. 
+* There is an [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") where you can feel free to ask questions of other members of this cohort. I will be monitoring the post throughout the session. 
 * For any questions you would like to ask privately, please email me at negeena@uw.edu. I would love to hear from you all, so please don't hesitate to reach out! 
