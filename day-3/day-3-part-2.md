@@ -85,6 +85,13 @@ In the chart below, the colors of the “other race” and “two or more races�
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/otherasgray.png" alt="Stacked bar chart showing racial minorities in Washington counties with a gray color representing the 'other' category." width="750"/>
 
+#### Mapping 
+When reading or creating a map, it can help to think about who created the borders of the map -- both historically and in whoever created the base layer of the map. Who is missing in the labels, and who is made invisible based on the decisions around borders? 
+
+Borders do not always represent people, and a great example of this can be seen in the [map below created by The Kurdish Project](https://thekurdishproject.org/kurdistan-map/ "map below created by The Kurdish Project"). It shows how the Kurdish people are distributed across four borders, none of which are a Kurdish state. There is a tension here between where people live, who they are, and how they are or are not represented on certain maps. 
+
+<img src="https://thekurdishproject.org/wp-content/uploads/2015/11/11907164_1658887681023782_5337654842828259130_o.png" alt="Map of where the Kurdish people are located within the Middle East, specifically spread over Turkey, Syria, Iraq, and Iran." width="750"/>
+
 ### Day 3 readings
 * (reading 1)
 * (reading 2) 
