@@ -10,7 +10,8 @@ Welcome to Day 1 of the session! Today, we'll be covering:
 * How to read a data visualization
 * Design principles
 * Synchronous session: 12-1 pm Pacific, introductions, overview of the session 
-* [Discussion post: introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "Discussion post: introduce yourself!")
+
+Before you get started, head over to the [discussion post to introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "discussion post to introduce yourself!")
 
 If you run into any issues using GitHub or have any other questions, please don't hesitate to reach out to me at negeena@uw.edu. 
 
