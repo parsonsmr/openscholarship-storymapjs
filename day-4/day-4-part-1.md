@@ -20,12 +20,15 @@ There are specific design choices that can make visualizations more or less acce
 Whenever possible, don’t use color as the only medium to communicate information. People perceive colors differently. Instead, try using a combination of color, text, and shapes to label information.
 
 When you use only color to distinguish between variables, such as in the example below...
+
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/colorbars.png" alt="Stacked bar chart with red bars for cat pet licenses and green bars for dog pet licenses." width="750"/>
 
 ...your chart might look like this to some readers. 
+
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/colorgray.png" alt="Stacked bar chart with gray bars for cat and dog pet licenses." width="750"/>
 
 In addition, some data visualization software doesn't design for better options due to so-called "best practices."
+
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/tableaupatternfill.png" alt="Conversation on Tableau Community Forum where a Tableau rep shares that pattern fill is not part of Tableau's design and a member of the Forum explains that pattern fill is important for colorblindness." width="750"/>
 
 This screenshot of a conversation on a Tableau forum shows where some tools might prioritize aesthetics over function and accessibility. In the thread, the Tableau representative says, in a longer thread asking about pattern fills, that “Pattern fill colors are not a visual best practice. Tableau was built from the ground up with best practices in mind...hence, not having this functionality. Try using different shades of hue for printing purposes.” A Tableau user responds with, “Pattern fill is visible to those with colorblindness. That’s why we use it...hue works, but not nearly as well.”
@@ -33,9 +36,11 @@ This screenshot of a conversation on a Tableau forum shows where some tools migh
 This conversation demonstrates the tension here between some *industry-defined* best practices and *accessibility* best practices. 
 
 One way around this issue is using icons to note length. In the visualization below of the five most popular names of pet licenses in Seattle, you can see a dog icon that ends where the bar for dog ends and a cat icon where the bar for cat ends. Given the data, it might even make more sense to separate the animals or do a side by side, both alternatives that may be more accessible. 
+
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/colorwithshapes.png" alt="More accessible bar chart that distinguishes by icons as well as colors." width="550"/>
 
 If the tool you are using allows for a pattern fill, that is another way to distinguish between variables using an element other than color, as seen in the chart below. 
+
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/patternfillexcel.png" alt="Bar chart with pattern fill for the bars." width="750"/>
 
 ##### Layout
