@@ -14,7 +14,7 @@ In the example below, take note how each data point is organized into columns an
 #### Semi-structured data 
 Semi-structured data is not tabular, but it does contain some tags or other ways of organizing the data. An example of semi-structured data is an email, which contains some markers to identify parts of the data (for example, sender name, date sent, size of attachments, and so on) but also includes parts that are not tagged (such as the subject or body of the email). 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/semistructureddata.png" alt="Semistructured data consisting of an email with some structured and unstructured elements visible." width="550"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/semistructureddata.png" alt="Semistructured data consisting of an email with some structured and unstructured elements visible." width="750"/>
 
 #### Unstructured data
 Unstructured data does not organize information in a particular model or hierarchy. Some examples include audio, video, and the text from an interview. While this format is harder to analyze using some data visualization tools, it can provide a level of complexity that can be stripped out when data is structured. 
