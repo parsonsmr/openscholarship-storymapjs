@@ -81,3 +81,5 @@ Note that Microsoft Excel is available to all UW students, faculty, and staff. F
 * Doug Shepers, ["Why Accessibility Is at the Heart of Data Visualization,"](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b "Why Accessibility is at the Heart of Data Visualization,") Nightingale: The Journal of the Data Visualization Society, May 21, 2020
 * Sarah L. Fossheim, ["An intro to designing accessible data visualizations,"](https://keen.io/blog/accessibility-in-data-vis/ "An intro to designing accessible data visualizations,") January 12, 2020
 * [Chartability](https://chartability.fizz.studio/ "Chartability")
+
+Whenever you're ready, proceed to [Day 4, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-4/day-4-part-2 "Day 4, Part 2) or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage). 
