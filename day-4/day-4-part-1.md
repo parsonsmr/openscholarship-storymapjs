@@ -39,4 +39,35 @@ If the tool you are using allows for a pattern fill, that is another way to dist
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/patternfillexcel.png" alt="Bar chart with pattern fill for the bars." width="550"/>
 
 ##### Layout
+When setting up the layout of your visualization, avoid dense and complex arrangements. Try to develop clear and logical layouts -- simple layouts can communicate the information you need without being overwhelming for readers. 
 
+If you know you will have readers engaging with your visualization from more than one type of device, consider how a resized version of your visualization will look on those devices. This is particularly important for mobile users who may try to read your visualization in both landscape and portrait mode. 
+
+##### Language
+Avoid paragraphs and complex sentences that would make it difficult for a reader to understand the content. Short and clear sentences, along with subheadings and bullet points, can be just as effective in communicating information. 
+
+##### Font and contrast
+If possible, avoid highly stylized fonts and instead use sans-serif fonts. Make sure that there is a high enough contrast ratio between the font and the background. 
+
+A helpful tool to check contrast is the [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/ "WebAIM contrast checker"), which is available for free.
+
+##### Labels and titles
+Use labels and titles to help readers, particularly those using screen readers, to understand the information in your visualization. 
+
+##### Alternative text
+Alternative text ("alt" text) is text that can be read by a screen reader when encountering an image. Alt text should be descriptive of the main points of the visualization -- not just what it looks like, but important points. Keep in mind that most screen readers will only read out about 100-150 characters, so keep your alt text limited to 1-2 sentences. 
+
+Each tool has its own method to add alt text, but most major tools will include that functionality. 
+
+##### Interactive elements
+Check to see that interactive elements, if you have any, can be done using only a keyboard. If you use features that are only visible when hovering over the visualization, be sure that the information there is also viewable on the visualization itself so that it is not cut off from those using screen readers. Label any interactive elements. 
+
+#### Setting up for accessibility
+It is much easier to build in accessibility at the start of creating a visualization rather than having to retroactively embed accessible functions. As you're designing your visualization, plan for the pieces that you can make more accessible. 
+
+While there is a long road for accessibility in the field of data visualization, any step in that direction is helpful and makes sure all readers can access information rather than only a select group of people. Keep seeking out resources -- designing for accessibility is an ongoing process and there isn't a one size fits all solution. 
+
+### Day 4 readings
+* Doug Shepers, ["Why Accessibility Is at the Heart of Data Visualization,"](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b "Why Accessibility is at the Heart of Data Visualization,") Nightingale: The Journal of the Data Visualization Society, May 21, 2020
+* Sarah L. Fossheim, ["An intro to designing accessible data visualizations,"](https://keen.io/blog/accessibility-in-data-vis/ "An intro to designing accessible data visualizations,") January 12, 2020
+* [Chartability](https://chartability.fizz.studio/ "Chartability")
