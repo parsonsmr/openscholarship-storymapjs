@@ -11,12 +11,12 @@ In the example below, take note how each data point is organized into columns an
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/structureddata.PNG" alt="Structured data of a fake survey with responses to how much respondents like an animal to demonstrate and example of structured data without row headers." width="550"/>
 
-### Semi-structured data 
+#### Semi-structured data 
 Semi-structured data is not tabular, but it does contain some tags or other ways of organizing the data. An example of semi-structured data is an email, which contains some markers to identify parts of the data (for example, sender name, date sent, size of attachments, and so on) but also includes parts that are not tagged (such as the subject or body of the email). 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/structureddata.PNG" alt="Semistructured data consisting of an email with some structured and unstructured elements visible." width="550"/>
 
-### Unstructured data
+#### Unstructured data
 Unstructured data does not organize information in a particular model or hierarchy. Some examples include audio, video, and the text from an interview. While this format is harder to analyze using some data visualization tools, it can provide a level of complexity that can be stripped out when data is structured. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/unstructureddata.png" alt="UNstructured data consisting of fake interview text." width="550"/>
