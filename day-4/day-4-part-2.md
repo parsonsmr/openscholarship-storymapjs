@@ -10,3 +10,5 @@ This part includes links to some inspiration in case you need any while creating
 * [Laurie Frick](https://www.lauriefrick.com/works "Laurie Frick")
 * [Wendy Macnaughton](http://wendymacnaughton.com/#portfolio "Wendy Macnaughton")
 * [Tableau Public Gallery](https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day "Tableau Public Gallery")
+
+If you run into any issues finding data, cleaning data, or creating a visualization, please don't hesitate to reach out! 
