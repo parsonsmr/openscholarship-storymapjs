@@ -1,3 +1,6 @@
+[Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 1, Part 2 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") 
+
+Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
 ## Day 1, Part 1
 Welcome to Day 1 of the session! Today, we'll be covering: 
 * What is data? What is data visualization?
