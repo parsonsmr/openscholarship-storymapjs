@@ -73,7 +73,7 @@ It is much easier to build in accessibility at the start of creating a visualiza
 While there is a long road for accessibility in the field of data visualization, any step in that direction is helpful and makes sure all readers can access information rather than only a select group of people. Keep seeking out resources -- designing for accessibility is an ongoing process and there isn't a one size fits all solution. 
 
 ### Accessibility practice
-Use the [accessibility practice Excel workbook](https://github.com/negeenaghassi/openscholarship-dataviz/raw/gh-pages/accessibility_dataviz_practice.xlsx "accessibility practice Excel workbook") to test out the design choices above. The "practiceviz" tab has the original, not very accessible version, and the "moreaccessibleversion" is the visualization after some of these choices have been implemented. Please don't hesitate to reach out if you have any questions!
+Use the [accessibility practice Excel workbook](https://github.com/negeenaghassi/openscholarship-dataviz/raw/gh-pages/day-4/accessibility_dataviz_practice.xlsx "accessibility practice Excel workbook") to test out the design choices above. The "practiceviz" tab has the original, not very accessible version, and the "moreaccessibleversion" is the visualization after some of these choices have been implemented. Please don't hesitate to reach out if you have any questions!
 
 Note that Microsoft Excel is available to all UW students, faculty, and staff. For more information on how to download Excel using an institutional license, refer to the [IT Connect Microsoft Software](https://itconnect.uw.edu/wares/uware/microsoft/ "IT Connect Microsoft Software"). 
 
