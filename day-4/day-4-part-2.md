@@ -13,4 +13,4 @@ This part includes links to some inspiration in case you need any while creating
 
 If you run into any issues finding data, cleaning data, or creating a visualization, please don't hesitate to reach out! 
 
-Whenever you're ready, proceed to [Day 5](https://negeenaghassi.github.io/openscholarship-dataviz/day-5/ "Day 5") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
+Whenever you're ready, proceed to [Day 5](https://negeenaghassi.github.io/openscholarship-dataviz/day-5/day-5 "Day 5") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
