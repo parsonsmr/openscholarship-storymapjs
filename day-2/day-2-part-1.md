@@ -45,4 +45,8 @@ It can take some work to convert a dataset from cross-tab, but before you put in
 
 #### Standardizing
 
-When we read "100 Ave," "100 Ave.," "100 Avenue," and "One Hundred Ave," we understand that these records are likely referring to the same record. However, a computer will process each of those as separate locations. When the same data points are not standardized and consolidated, it can make it difficult when visualizing since they
+When we read "100 Ave," "100 Ave.," "100 Avenue," and "One Hundred Ave," we understand that these records are likely referring to the same record. However, a computer will process each of those as separate locations, leading to an unclear visualization. 
+
+It's often easier to set standards when collecting data in the first place rather than having to retroactively clean the data, but if you do have to clean the data or are using data that you did not collect yourself, you can try to make it easier on yourself by using [Excel's find and replace function](https://support.microsoft.com/en-us/office/find-or-replace-text-and-numbers-on-a-worksheet-0e304ca5-ecef-4808-b90f-fdb42f892e90 "Excel's find and replace function). 
+
+
