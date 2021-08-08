@@ -3,9 +3,6 @@
 
 Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
 ## Day 3, Part 2
-<!-- text to embed a video frame <a href="https://youtu.be/hRWEteXYD_Y" target="_blank">
- <img src="http://img.youtube.com/vi/hRWEteXYD_Y/mqdefault.jpg" alt="Rep. Katie Porter Grills Big Pharma CEO About Industry's Lies" width="240" height="180" border="10" />
-</a> -->
 Welcome to Day 3, Part 2! This part will look at potential solutions to some of the issues raised in Part 1 and review concrete examples of steps to take in visualization practices to be more inclusive. 
 
 In Part 1, the ways in which data structures oversimplify identities was a major theme in framing how data can exclude and harm people and communities. 
