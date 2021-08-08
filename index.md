@@ -22,7 +22,7 @@ This session will cover the basics of data visualization, including:
 * [Day 2 (Tuesday, August 10)](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-1 "Day 2 (Tuesday, August 10)")
   * Structured/unstructured data
   * Data cleaning
-  * File types
+  * File formats
   * Overview of data preparation tools
   * Finding datasets
   * How to use the data visualization tool for this session (Datawrapper) 
