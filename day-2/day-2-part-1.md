@@ -23,3 +23,23 @@ Semi-structured data is not tabular, but it does contain some tags or other ways
 Unstructured data does not organize information in a particular model or hierarchy. Some examples include audio, video, and the text from an interview. While this format is harder to analyze using some data visualization tools, it can provide a level of complexity that can be stripped out when data is structured. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/unstructureddata.png" alt="UNstructured data consisting of fake interview text." width="550"/>
+
+### Data cleaning
+Data cleaning (also called data wrangling, tidying, normalizing, etc.) is the process of finding and correcting inaccurate or unstandardized data points. With many data visualization projects, data cleaning is the bulk of the work. 
+
+#### Cross-tab vs normalized data
+
+Part of data cleaning may involve making sure that the data is in a structured format that can be analyzed by a certain tool. This may involve converting a **cross-tab** dataset into a **normalized** dataset. 
+
+Look at the example below of a cross-tab dataset. In order to find one record, the reader has to take two steps: go down to a specific row, then go to a specific column (or vice versa). Another way to look at it is that there are both column headers *and* row headers. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/crosstab.png" alt="Fake survey data about how much the respondents like a particular animal demonstrating cross-tab data structure with both columns and rows." width="550"/>
+
+This format is difficult for many data visualization tools to process. Most popular tools require that each record be its own row (in a normalized or "unpivoted" format). The same example of structured data from above demonstrates this format. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/structureddata.PNG" alt="Structured data of a fake survey with responses to how much respondents like an animal to demonstrate and example of normalized structured data without row headers." width="550"/>
+
+Note that for any particular record, there is only one step to find it: find the record. 
+
+It can take some work to convert a dataset from cross-tab, but before you put in too many hours, check out these [instructions on how to automatically normalize your data using the Microsoft Excel Pivot Table Wizard](https://superuser.com/a/78464 "how to automatically normalize your data using the Microsoft Excel Pivot Table Wizard.")
+
