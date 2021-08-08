@@ -11,22 +11,21 @@ This session will cover the basics of data visualization, including:
   * **Synchronous session: 12-1 pm Pacific, introductions, overview of the session** 
   * [Discussion post: introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "Discussion post: introduce yourself!")
   * What is data? What is data visualization?
-  * Types of data and file types
-  * Overview of tools
   * Why visualize? 
-  * How to read a data visualization
+  * Types of data
+  * Chart types
   * Design principles
+  * Basic math
+  * Sketching/planning a visualization
   * Data storytelling
 
 * [Day 2 (Tuesday, August 10)](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-1 "Day 2 (Tuesday, August 10)")
   * Structured/unstructured data
   * Data cleaning
-  * Developing a visualization
-  * Chart types
-  * Design elements
-  * Basic math
+  * File types
+  * Overview of data preparation tools
   * Finding datasets
-  * Introduction to data visualization tool for this session
+  * How to use the data visualization tool for this session (Datawrapper) 
 
 * [Day 3 (Wednesday, August 11)](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-1 "Day 3 (Wednesday, August 11)")
   * Inclusive data visualization
