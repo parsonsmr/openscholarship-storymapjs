@@ -43,3 +43,6 @@ Note that for any particular record, there is only one step to find it: find the
 
 It can take some work to convert a dataset from cross-tab, but before you put in too many hours, check out these [instructions on how to automatically normalize your data using the Microsoft Excel Pivot Table Wizard](https://superuser.com/a/78464 "how to automatically normalize your data using the Microsoft Excel Pivot Table Wizard.")
 
+#### Standardizing
+
+When we read "100 Ave," "100 Ave.," "100 Avenue," and "One Hundred Ave," we understand that these records are likely referring to the same record. However, a computer will process each of those as separate locations. When the same data points are not standardized and consolidated, it can make it difficult when visualizing since they
