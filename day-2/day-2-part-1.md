@@ -47,6 +47,61 @@ It can take some work to convert a dataset from cross-tab, but before you put in
 
 When we read "100 Ave," "100 Ave.," "100 Avenue," and "One Hundred Ave," we understand that these records are likely referring to the same record. However, a computer will process each of those as separate locations, leading to an unclear visualization. 
 
-It's often easier to set standards when collecting data in the first place rather than having to retroactively clean the data, but if you do have to clean the data or are using data that you did not collect yourself, you can try to make it easier on yourself by using [Excel's find and replace function](https://support.microsoft.com/en-us/office/find-or-replace-text-and-numbers-on-a-worksheet-0e304ca5-ecef-4808-b90f-fdb42f892e90 "Excel's find and replace function"). 
+It's often easier to set standards when collecting data in the first place rather than having to retroactively clean the data. For example: 
+
+* How will phone numbers appear? (xxx) xxx-xxxx OR xxx-xxx-xxxx OR xxxxxxxxxx
+* How will street names be collected? Street OR St. OR St OR ST OR st
+* Will latitude and longitude be automatically stored in separate columns, or will you have to manually separate them? 
+
+If you do have to clean the data or are using data that you did not collect yourself, you can try to make it easier on yourself by using [Excel's find and replace function](https://support.microsoft.com/en-us/office/find-or-replace-text-and-numbers-on-a-worksheet-0e304ca5-ecef-4808-b90f-fdb42f892e90 "Excel's find and replace function").
+
+#### Cleaning
+
+When preparing your data, clean out any stray punctuation, spaces, test records, spelling errors, and any other issues that impact the data. For example: 
+
+* JAMA : → change to JAMA
+* Zygon. → change to Zygon
+* Zootopia / → change to Zootopia
+* Zootaxa.,Zootaxa., → change to Zootaxa 
+* (if using title case) Zoological journal of the Linnean Society → change to Zoological Journal of the Linnean Society
+
+While you may not use all of these tips, watch [TrumpExcel's "10 Super Neat Ways to Clean Data in Excel'](https://www.youtube.com/watch?v=e0TfIbZXPeA "TrumpExcel's 10 Super Neat Ways to Clean Data in Excel")for some strategies to save time when cleaning data. 
+
+#### List of data preparation tools
+
+There are many tools, some proprietary and some open source, that can help with the data cleaning process. While this week will not go into these tools in depth, feel free to learn more about them using the resources listed below. (The ones listed below do not require any programming skills.) 
+
+* Excel: proprietary but [access provided through the UW](https://itconnect.uw.edu/wares/uware/microsoft/ "access provided through the UW"), ["Top ten ways to clean your data"](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19 "Top ten ways to clean your data")
+* OpenRefine: open source, [user manual](https://docs.openrefine.org/ "user manual")
+* Tableau Prep: proprietary, specific to Tableau, ["About Tableau Prep"](https://help.tableau.com/current/prep/en-us/prep_about.htm "About Tableau Prep")
+
+### File formats
+
+The file format that your data is in depends on the data itself and how the data was collected. Some popular file formats include: 
+
+* Quantitative data: Comma-separated values (CSV, .csv)
+* Qualitative data: Plain text file (.txt) 
+* Geospatial: shape files (.shp)
+* Geospatial: Geographic JavaScript Object Notation (.json, .geojson)
+
+While there are many more file formats, the ones above are the ones you will likely come across most frequently when starting out. 
+
+### Finding data
+
+There are many ways to find data, although the perfect dataset might not exist. Some data is easier to find than other -- for example, while county health statistics can be found without much difficulty, proprietary data (such as company data) can be harder to find or completely inaccessible. Below are some areas to start looking for data. While these can be a great starting point, this is not a comprehensive list, so continue exploring! 
+
+* [Data Planet](https://guides.lib.uw.edu/research/dataplanet "Data Planet"): The UW provides access to Data Planet, which can be a good place to browse datasets and start to create charts and maps. 
+* [Washington State Data](https://guides.lib.uw.edu/research/data/WAdata "Washington State Data"): This guide walks through different Washington state departments and where to find the data they collect. 
+* [Geospatial Data Resources](https://guides.lib.uw.edu/research/gis "Geospatial Data Resources"): This guide includes links to local governmental spatial data that is available to the public. 
+* Civic data: Open data related to city, county, state, and federal operations are often available through open data portals. 
+*   [Seattle Open Data](https://data.seattle.gov/ "Seattle Open Data")
+*   [King County Open Data](https://data.kingcounty.gov/ "King County Open Data")
+*   [Washington Open Data](https://data.wa.gov/ "Washington Open Data")
+*   [U.S. Government Open Data](https://www.data.gov/ "U.S. Government Open Data")
 
 
+
+## Day 2 readings
+* University of Virginia Library, ["Data Types & File Formats"](https://data.library.virginia.edu/data-management/plan/format-types/ "University of Virginia Library Data Types and File Formats") 
+* University of Washington Libraries, ["Find Data"](https://guides.lib.uw.edu/research/dmg/finddata "Find Data")
+* 
