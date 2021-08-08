@@ -65,10 +65,10 @@ When preparing your data, clean out any stray punctuation, spaces, test records,
 * Zootaxa.,Zootaxa., → change to Zootaxa 
 * (if using title case) Zoological journal of the Linnean Society → change to Zoological Journal of the Linnean Society
 
-While you may not use all of these tips, watch [TrumpExcel's "10 Super Neat Ways to Clean Data in Excel'](https://www.youtube.com/watch?v=e0TfIbZXPeA "TrumpExcel's 10 Super Neat Ways to Clean Data in Excel")for some strategies to save time when cleaning data. 
+While you may not use all of these tips, watch TrumpExcel's "10 Super Neat Ways to Clean Data in Excel" by clicking on the image below to pick up some strategies to save time when cleaning data. 
 
 <a href="https://youtu.be/e0TfIbZXPeA" target="_blank">
- <img src="http://img.youtube.com/vi/e0TfIbZXPeA/mqdefault.jpg" alt="TrumpExcel's 10 Super Neat Ways to Clean Data in Excel" width="240" height="180" border="10" />
+<img src="http://img.youtube.com/vi/e0TfIbZXPeA/mqdefault.jpg" alt="TrumpExcel's 10 Super Neat Ways to Clean Data in Excel" width="240" height="180" border="10" />
 </a>
 <!-- text to embed a video frame <a href="https://youtu.be/hRWEteXYD_Y" target="_blank">
  <img src="http://img.youtube.com/vi/hRWEteXYD_Y/mqdefault.jpg" alt="Rep. Katie Porter Grills Big Pharma CEO About Industry's Lies" width="240" height="180" border="10" />
