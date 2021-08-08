@@ -94,10 +94,10 @@ There are many ways to find data, although the perfect dataset might not exist. 
 * [Washington State Data](https://guides.lib.uw.edu/research/data/WAdata "Washington State Data"): This guide walks through different Washington state departments and where to find the data they collect. 
 * [Geospatial Data Resources](https://guides.lib.uw.edu/research/gis "Geospatial Data Resources"): This guide includes links to local governmental spatial data that is available to the public. 
 * Civic data: Open data related to city, county, state, and federal operations are often available through open data portals. 
-*   [Seattle Open Data](https://data.seattle.gov/ "Seattle Open Data")
-*   [King County Open Data](https://data.kingcounty.gov/ "King County Open Data")
-*   [Washington Open Data](https://data.wa.gov/ "Washington Open Data")
-*   [U.S. Government Open Data](https://www.data.gov/ "U.S. Government Open Data")
+  * [Seattle Open Data](https://data.seattle.gov/ "Seattle Open Data")
+  * [King County Open Data](https://data.kingcounty.gov/ "King County Open Data")
+  * [Washington Open Data](https://data.wa.gov/ "Washington Open Data")
+  * [U.S. Government Open Data](https://www.data.gov/ "U.S. Government Open Data")
 
 
 
