@@ -10,15 +10,15 @@ If your visualization is still a draft, don't worry! Feel free to share it with 
 ### Sharing your visualization
 In order to share your visualization *while logged in to your Datawrapper account*, follow these steps: 
 
-1. In Datawrapper, navigate to the **Publish & Embed** arrow of your visualization. 
+1.In Datawrapper, navigate to the **Publish & Embed** arrow of your visualization. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperpubembed.png" alt="Screenshot of the Publish & Embed section of a Datawrapper visualization." width="750"/>
 
-2. Click on the blue **Publish Chart** button, then copy and paste the URL under **Share via URL**. 
+2.Click on the blue **Publish Chart** button, then copy and paste the URL under **Share via URL**. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperlink.png" alt="Screenshot of the Publish Chart button of a Datawrapper visualization." width="750"/>
 
-3. Copy and paste the link to your visualization and answer the other questions in the [Day 5 Discussion](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Day 5 Discussion").
+3.Copy and paste the link to your visualization and answer the other questions in the [Day 5 Discussion](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Day 5 Discussion").
 
 **If you do not have a Datawrapper account,** feel free to take a screenshot of your visualization and attach the image to your post in the [Day 5 Discussion](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Day 5 Discussion").
 
