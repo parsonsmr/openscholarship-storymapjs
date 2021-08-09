@@ -1,7 +1,7 @@
 [< Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") | [Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 2, Part 2 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-2 "Day 2, Part 2") 
 
 Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
-## Day 2, Part 1 (in progress)
+## Day 2, Part 1
 Welcome to Day 2, Part 1! This part will go over data cleaning, chart types, how to find datasets, and other aspects of getting start with creating a data visualization. 
 
 ### Structured, semi-structured, and unstructured data
@@ -117,3 +117,5 @@ There are many ways to find data, although the perfect dataset might not exist. 
 * University of Virginia Library, ["Data Types & File Formats"](https://data.library.virginia.edu/data-management/plan/format-types/ "University of Virginia Library Data Types and File Formats") 
 * University of Washington Libraries, ["Find Data"](https://guides.lib.uw.edu/research/dmg/finddata "Find Data")
 * Michigan State University Libraries, [How to Cite Data](https://libguides.lib.msu.edu/c.php?g=96245&p=626236 "How to Cite Data") 
+
+Whenever you're ready, proceed to [Day 2, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-2 "Day 2, Part 2") in order to be introduced to the data visualization tool for this week and instructions on how to create your own data visualization. You can also [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage")
