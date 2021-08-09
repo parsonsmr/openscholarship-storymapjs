@@ -61,4 +61,4 @@ For more detailed, step by step instructions on creating a visualization, refer 
 * [Datawrapper Knowledgebase](https://academy.datawrapper.de/ "Datawrapper Knowledgebase")
 * [Datawrapper FAQs](https://www.datawrapper.de/faq "Datawrapper FAQs")
 
-Whenever you're ready, proceed to [Day 3, Part 1 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-1 "Day 3, Part 1") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
+Whenever you're ready, proceed to [Day 3, Part 1](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-1 "Day 3, Part 1") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
