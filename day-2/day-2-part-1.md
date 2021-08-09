@@ -65,6 +65,14 @@ When preparing your data, clean out any stray punctuation, spaces, test records,
 * Zootaxa.,Zootaxa., → change to Zootaxa 
 * (if using title case) Zoological journal of the Linnean Society → change to Zoological Journal of the Linnean Society
 
+Below is an example of messy data prior to cleaning. Note that there are inconsistencies between the categories that make it hard to fully understand the data. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/messydata.png" alt="Table that demonstrates inconsistencies due to messy data." width="550"/>
+
+In the next example, the data has been cleaned and each of the categories are easier to compare against one another. 
+
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/cleandata.png" alt="Table that demonstrates how clean data is easier to analyze." width="550"/>
+
 While you may not use all of these tips, watch TrumpExcel's "10 Super Neat Ways to Clean Data in Excel" by clicking on the image below to pick up some strategies to save time when cleaning data. 
 
 <a href="https://youtu.be/e0TfIbZXPeA" target="_blank">
@@ -86,10 +94,9 @@ There are many tools, some proprietary and some open source, that can help with 
 
 The file format that your data is in depends on the data itself and how the data was collected. Some popular file formats include: 
 
-* Quantitative data: Comma-separated values (CSV, .csv)
-* Qualitative data: Plain text file (.txt) 
-* Geospatial: shape files (.shp)
-* Geospatial: Geographic JavaScript Object Notation (.json, .geojson)
+* Quantitative data: Comma-separated values (CSV, .csv), Excel (.xlsx) | example: counting salmon populations in the PNW 
+* Qualitative data: Plain text file (.txt) | example: interviews with health care providers during COVID-19
+* Geospatial: shape files (.shp) and Geographic JavaScript Object Notation (.json, .geojson) | example: school district lines 
 
 While there are many more file formats, the ones above are the ones you will likely come across most frequently when starting out. 
 
@@ -106,9 +113,7 @@ There are many ways to find data, although the perfect dataset might not exist. 
   * [Washington Open Data](https://data.wa.gov/ "Washington Open Data")
   * [U.S. Government Open Data](https://www.data.gov/ "U.S. Government Open Data")
 
-
-
 ## Day 2 readings
 * University of Virginia Library, ["Data Types & File Formats"](https://data.library.virginia.edu/data-management/plan/format-types/ "University of Virginia Library Data Types and File Formats") 
 * University of Washington Libraries, ["Find Data"](https://guides.lib.uw.edu/research/dmg/finddata "Find Data")
-* 
+* Michigan State University Libraries, [How to Cite Data](https://libguides.lib.msu.edu/c.php?g=96245&p=626236 "How to Cite Data") 
