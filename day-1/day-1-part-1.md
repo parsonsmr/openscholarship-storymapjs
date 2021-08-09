@@ -1,7 +1,7 @@
 [Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 1, Part 2 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") 
 
 Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
-## Day 1, Part 1 (in progress)
+## Day 1, Part 1 
 Welcome to Day 1 of the session! Today, we'll be covering: 
 * What is data? What is data visualization?
 * Why visualize? 
@@ -90,7 +90,7 @@ Bar charts are some of the most commonly used charts. They are great for compari
 #### Line charts
 Line charts are great at showing change over time. They are continuous and useful for comparing values over a period of time. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/linechart.png" alt="Example of a line chart." width="1000"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/linechart.png" alt="Example of a line chart." width="750"/> 
 
 #### Pie charts
 The utility of pie charts is heavily debated in the data visualization world. Pie charts *can* be useful if they only present a few data points, are not cluttered but have labels, are 2-dimensional, they add up to 100%, and they are not from multiple points of time. They can quickly show parts of a whole. 
