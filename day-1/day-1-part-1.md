@@ -50,7 +50,7 @@ For a glossary of data visualization-related terms, please refer to the [data vi
 
 **Nathan Yau, "Where People Are Married and Not"**
 
-<img src="https://flowingdata.com/2021/05/11/where-people-are-married-and-not/" alt="Choropleth map that indicates where people in the United States are married or not married with a high prevalence of marriage in the center of the US." width="550"/> 
+<img src="https://flowingdata.com/wp-content/uploads/2021/05/prevalent-marst-desktop.png" alt="Choropleth map that indicates where people in the United States are married or not married with a high prevalence of marriage in the center of the US." width="550"/> 
 
 ## Part 2
 Whenever you're ready, proceed to [Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
