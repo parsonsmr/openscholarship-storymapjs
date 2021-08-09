@@ -96,7 +96,7 @@ Line charts are great at showing change over time. They are continuous and usefu
 The utility of pie charts is heavily debated in the data visualization world. Pie charts *can* be useful if they only present a few data points, are not cluttered but have labels, are 2-dimensional, they add up to 100%, and they are not from multiple points of time. They can quickly show parts of a whole. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/piechart.png" alt="Example of a pie chart." width="600"/> 
-[(Data source)](data:application/octet-stream;charset=utf-8,X.1%2CX.2%0AWorse%2C46%0ANot%20made%20a%20difference%2C26%0ADon't%20know%2C3%0ABetter%2C25 "(Data source)")
+[Data source](data:application/octet-stream;charset=utf-8,X.1%2CX.2%0AWorse%2C46%0ANot%20made%20a%20difference%2C26%0ADon't%20know%2C3%0ABetter%2C25 "Data source")
 
 #### Maps
 Maps are an intiutive and useful way to represent spatial data. They can identify the locations of places in relation to each other and can have data points attached to them. 
@@ -107,7 +107,7 @@ Maps are an intiutive and useful way to represent spatial data. They can identif
 Scatter plots help identify the relationship (if any) between two variables. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/scatterplot.png" alt="Example of a scatter plot." width="750"/>
-[(Data source)](https://ourworldindata.org/recent-improvements-to-interactive-scatterplots "(Data source)")
+[Data source](https://ourworldindata.org/recent-improvements-to-interactive-scatterplots "Data source")
 
 #### Tables
 Yes, tables can also be visualizations! Tables are a simple and effective way to compare variables against one another. Much like pie charts, they are most useful when they are not cluttered and include descriptive labels. 
@@ -117,8 +117,6 @@ Yes, tables can also be visualizations! Tables are a simple and effective way to
 For further descriptions and examples of chart types, check out Chartio, Mike Yi and Mary Sapountzis, ["Essential Chart Types for Data Visualization,"](https://chartio.com/learn/charts/essential-chart-types-for-data-visualization/ "Essential Chart Types for Data Visualization") September 30 2019. 
 
 Another useful tool for selecting an appropriate chart type for your data is [The Data Visualization Catalogue](https://datavizcatalogue.com/ "The Data Visualization Catalogue"). Not only does this site provide detailed descriptions of each chart type, it also has a function to [search by function/relationships](https://datavizcatalogue.com/search.html "search by function/relationships"). 
-
-
 
 ## Part 2
 Whenever you're ready, proceed to [Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
