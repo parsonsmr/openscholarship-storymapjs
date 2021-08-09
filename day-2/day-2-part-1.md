@@ -71,7 +71,7 @@ Below is an example of messy data prior to cleaning. Note that there are inconsi
 
 In the next example, the data has been cleaned and each of the categories are easier to compare against one another.  
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/cleandatarevised.png" alt="Table that demonstrates how clean data is easier to analyze." width="750"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/cleandatarevised.png" alt="Table that demonstrates how clean data is easier to analyze." width="1000"/>
 
 While you may not use all of these tips, watch TrumpExcel's "10 Super Neat Ways to Clean Data in Excel" by clicking on the image below to pick up some strategies to save time when cleaning data. 
 
