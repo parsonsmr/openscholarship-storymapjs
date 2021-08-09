@@ -2,7 +2,7 @@
 
 Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
 ## Day 3, Part 1
-Welcome to Day 3! Today's focus is going to be on data visualization and inclusion and accessibility. A visualization is not useful if it is not accessible by readers and can be harmful when it is not inclusive and reinforces biases. 
+Welcome to Day 3! Today's focus is going to be on data visualization and inclusion. A visualization is not useful if it is not accessible by readers and can be harmful when it is not inclusive and reinforces biases. 
 
 To begin to frame this topic, the following quote by Giorgia Lupi (co-creator of the *Dear Data* series that was excerpted in Day 1) helps lay out the ways in which data are more than just pieces of information: 
 
