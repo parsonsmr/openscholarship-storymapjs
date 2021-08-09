@@ -4,6 +4,11 @@ Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/ope
 ## Day 2, Part 2 
 Welcome to Part 2! This part will give an overview of the data visualization assignment for this week as well as go over the tool that we'll be using to create visualizations. Before starting your visualization, check out the tips from [Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") on planning and sketching before creating a visualization. For more detailed instructions, refer to the resources at the end of this page. 
 
+### Goal of this project
+The goal of this week is to create a visualization on a topic of your choosing using **Datawrapper**, a data visualization tool. You will have the chance to apply what you've learned this week to your visualization, then share it out with the rest of the cohort at the end of the week. If you have any questions, please do not hesitate to reach out to your cohort using the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") or to me (Negeen) directly. 
+
+To create this visualization, find a dataset that interests you, clean and prepare it for visualization, then create a visualization by Day 5. If you are short on time, feel free to use the sample datasets provided by Datawrapper. 
+
 ### Datawrapper
 The visualization tool for this week is **Datawrapper**. It is a non-commercial, open source software that does not require you to install anything on your device (it runs using most browsers). While Datawrapper does not have the same capabilities to create highly complex visualizations (such as Excel or Tableau), it allows for some customization and has a gentler learning curve than other tools. 
 
@@ -55,3 +60,5 @@ For more detailed, step by step instructions on creating a visualization, refer 
 * [Datawrapper example chart (developed by Datawrapper)](https://docs.google.com/presentation/d/170qwtojbTUhqt8SFmWbYhisnHQ1dktjqi22gryE0xj4/edit?usp=sharing "Datawrapper example chart (developed by Datawrapper)")
 * [Datawrapper Knowledgebase](https://academy.datawrapper.de/ "Datawrapper Knowledgebase")
 * [Datawrapper FAQs](https://www.datawrapper.de/faq "Datawrapper FAQs")
+
+Whenever you're ready, proceed to [Day 3, Part 1 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-1 "Day 3, Part 1") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
