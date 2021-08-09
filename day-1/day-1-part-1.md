@@ -85,32 +85,32 @@ There are several chart types that effectively communicate data. Some of the mos
 #### Bar charts
 Bar charts are some of the most commonly used charts. They are great for comparing categorical data (for example, colors, book titles, departments, etc.). 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/barchart.png" alt="Example of a bar chart." width="550"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/barchart.png" alt="Example of a bar chart." width="1000"/> 
 
 #### Line charts
 Line charts are great at showing change over time. They are continuous and useful for comparing values over a period of time. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/linechart.png" alt="Example of a line chart." width="550"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/linechart.png" alt="Example of a line chart." width="1000"/> 
 
 #### Pie charts
 The utility of pie charts is heavily debated in the data visualization world. Pie charts *can* be useful if they only present a few data points, are not cluttered but have labels, are 2-dimensional, they add up to 100%, and they are not from multiple points of time. They can quickly show parts of a whole. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/piechart.png" alt="Example of a pie chart." width="550"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/piechart.png" alt="Example of a pie chart." width="600"/> 
 
 #### Maps
 Maps are an intiutive and useful way to represent spatial data. They can identify the locations of places in relation to each other and can have data points attached to them. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/map.png" alt="Example of a map." width="550"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/map.png" alt="Example of a map." width="750"/> 
 
 #### Scatter plots
 Scatter plots help identify the relationship (if any) between two variables. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/scatterplot.png" alt="Example of a scatter plot." width="550"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/scatterplot.png" alt="Example of a scatter plot." width="750"/> 
 
 #### Tables
 Yes, tables can also be visualizations! Tables are a simple and effective way to compare variables against one another. Much like pie charts, they are most useful when they are not cluttered and include descriptive labels. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/table.png" alt="Example of a table." width="550"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/table.png" alt="Example of a table." width="200"/> 
 
 For further descriptions and examples of chart types, check out Chartio, Mike Yi and Mary Sapountzis, ["Essential Chart Types for Data Visualization,"](https://chartio.com/learn/charts/essential-chart-types-for-data-visualization/ "Essential Chart Types for Data Visualization") September 30 2019. 
 
