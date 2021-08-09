@@ -7,8 +7,7 @@ Welcome to Day 1 of the session! Today, we'll be covering:
 * Why visualize? 
 * Types of data
 * Chart types
-* Design principles
-* Basic math
+* Gestalt principles
 * Sketching/planning a visualization
 * Data storytelling
 
