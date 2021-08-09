@@ -69,7 +69,7 @@ Below is an example of messy data prior to cleaning. Note that there are inconsi
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/messydata.png" alt="Table that demonstrates inconsistencies due to messy data." width="750"/>
 
-In the next example, the data has been cleaned and each of the categories are easier to compare against one another. 
+In the next example, the data has been cleaned and each of the categories are easier to compare against one another.  
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/cleandata.png" alt="Table that demonstrates how clean data is easier to analyze." width="750"/>
 
