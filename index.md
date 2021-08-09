@@ -15,7 +15,6 @@ This session will cover the basics of data visualization, including:
   * Why visualize?
   * Chart types
   * Gestalt principles
-  * Basic math
   * Sketching/planning a visualization
   * Data storytelling
 
