@@ -67,7 +67,7 @@ When preparing your data, clean out any stray punctuation, spaces, test records,
 
 Below is an example of messy data prior to cleaning. Note that there are inconsistencies between the categories that make it hard to fully understand the data. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/messydatarevised.png" alt="Table that demonstrates inconsistencies due to messy data." width="750"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/messydatarevised.png" alt="Table that demonstrates inconsistencies due to messy data." width="1000"/>
 
 In the next example, the data has been cleaned and each of the categories are easier to compare against one another.  
 
