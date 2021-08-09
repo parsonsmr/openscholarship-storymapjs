@@ -8,8 +8,7 @@ Welcome to Day 1 of the session! Today, we'll be covering:
 * Types of data
 * Chart types
 * Gestalt principles
-* Sketching/planning a visualization
-* Data storytelling
+* Sketching/planning a visualization/data storytelling
 
 Before you get started, head over to the [discussion post to introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "discussion post to introduce yourself!")
 
