@@ -1,8 +1,8 @@
 [< Day 2, Part 1](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-1 "Day 2, Part 1") | [Return to homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "Return to homepage") | [Day 3, Part 1 >](https://negeenaghassi.github.io/openscholarship-dataviz/day-3/day-3-part-1 "Day 3, Part 1") 
 
 Reminder: Use the [ongoing discussion post](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/8 "ongoing discussion post") for any questions or thoughts that come up. 
-## Day 2, Part 2 (in progress)
-Welcome to Part 2! This part will give an overview of the data visualization assignment for this week as well as go over the tool that we'll be using to create visualizations. Before starting your visualization, check out the tips from [Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") on planning and sketching before creating a visualization. 
+## Day 2, Part 2 
+Welcome to Part 2! This part will give an overview of the data visualization assignment for this week as well as go over the tool that we'll be using to create visualizations. Before starting your visualization, check out the tips from [Day 1, Part 2](https://negeenaghassi.github.io/openscholarship-dataviz/day-1/day-1-part-2 "Day 1, Part 2") on planning and sketching before creating a visualization. For more detailed instructions, refer to the resources at the end of this page. 
 
 ### Datawrapper
 The visualization tool for this week is **Datawrapper**. It is a non-commercial, open source software that does not require you to install anything on your device (it runs using most browsers). While Datawrapper does not have the same capabilities to create highly complex visualizations (such as Excel or Tableau), it allows for some customization and has a gentler learning curve than other tools. 
@@ -55,4 +55,3 @@ For more detailed, step by step instructions on creating a visualization, refer 
 * [Datawrapper example chart (developed by Datawrapper)](https://docs.google.com/presentation/d/170qwtojbTUhqt8SFmWbYhisnHQ1dktjqi22gryE0xj4/edit?usp=sharing "Datawrapper example chart (developed by Datawrapper)")
 * [Datawrapper Knowledgebase](https://academy.datawrapper.de/ "Datawrapper Knowledgebase")
 * [Datawrapper FAQs](https://www.datawrapper.de/faq "Datawrapper FAQs")
-* 
