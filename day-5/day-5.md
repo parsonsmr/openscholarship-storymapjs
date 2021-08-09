@@ -12,14 +12,14 @@ In order to share your visualization *while logged in to your Datawrapper accoun
 
 1. In Datawrapper, navigate to the **Publish & Embed** arrow of your visualization. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperpubembed.png" alt="Stacked bar chart with red bars for cat pet licenses and green bars for dog pet licenses." width="750"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperpubembed.png" alt="Screenshot of the Publish & Embed section of a Datawrapper visualization." width="750"/>
 
 2. Click on the blue **Publish Chart** button, then copy and paste the URL under **Share via URL**. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperlink.png" alt="Stacked bar chart with red bars for cat pet licenses and green bars for dog pet licenses." width="750"/>
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperlink.png" alt="Screenshot of the Publish Chart button of a Datawrapper visualization." width="750"/>
 
 3. Copy and paste the link to your visualization and answer the other questions in the [Day 5 Discussion](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Day 5 Discussion").
 
 **If you do not have a Datawrapper account,** feel free to take a screenshot of your visualization and attach the image to your post in the [Day 5 Discussion](https://github.com/negeenaghassi/openscholarship-dataviz/discussions/6 "Day 5 Discussion").
 
-If you run into any issues, please do not hesitate to reach out! 
+If you run into any issues, please do not hesitate to reach out!
