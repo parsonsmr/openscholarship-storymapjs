@@ -15,8 +15,7 @@ This session will cover the basics of data visualization, including:
   * Why visualize?
   * Chart types
   * Gestalt principles
-  * Sketching/planning a visualization
-  * Data storytelling
+  * Sketching/planning a visualization/data storytelling
 
 * [Day 2 (Tuesday, August 10)](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-1 "Day 2 (Tuesday, August 10)")
   * Structured/unstructured data
