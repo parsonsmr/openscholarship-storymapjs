@@ -96,6 +96,7 @@ Line charts are great at showing change over time. They are continuous and usefu
 The utility of pie charts is heavily debated in the data visualization world. Pie charts *can* be useful if they only present a few data points, are not cluttered but have labels, are 2-dimensional, they add up to 100%, and they are not from multiple points of time. They can quickly show parts of a whole. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/piechart.png" alt="Example of a pie chart." width="600"/> 
+[(Data source)](data:application/octet-stream;charset=utf-8,X.1%2CX.2%0AWorse%2C46%0ANot%20made%20a%20difference%2C26%0ADon't%20know%2C3%0ABetter%2C25 "(Data source)")
 
 #### Maps
 Maps are an intiutive and useful way to represent spatial data. They can identify the locations of places in relation to each other and can have data points attached to them. 
@@ -105,7 +106,8 @@ Maps are an intiutive and useful way to represent spatial data. They can identif
 #### Scatter plots
 Scatter plots help identify the relationship (if any) between two variables. 
 
-<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/scatterplot.png" alt="Example of a scatter plot." width="750"/> 
+<img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/scatterplot.png" alt="Example of a scatter plot." width="750"/>
+[(Data source)](https://ourworldindata.org/recent-improvements-to-interactive-scatterplots "(Data source)")
 
 #### Tables
 Yes, tables can also be visualizations! Tables are a simple and effective way to compare variables against one another. Much like pie charts, they are most useful when they are not cluttered and include descriptive labels. 
