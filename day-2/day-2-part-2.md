@@ -18,7 +18,7 @@ The first step is to upload your dataset. Datawrapper provides a few options: co
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrapperupload.png" alt="Datawrapper tool upload datasets page." width="750"/>
 
-This walkthrough will use a sample dataset from the sample collection provided by Datawrapper. 
+This walkthrough will use a sample dataset from the sample collection provided by Datawrapper. **Note that any data you upload will be on Datawrapper's server, so do not upload any confidential or sensitive data.** 
 
 #### Check & Describe
 This step allows you to review your data and make any necessary changes. Some things to keep in mind:
@@ -48,3 +48,11 @@ The **Annotate** tab allows you to add metadata, such as the name of the creator
 The **Layout** tab lets you adjust the layout and theme of the visualization. 
 
 <img src="https://negeenaghassi.github.io/openscholarship-dataviz/images/datawrappervisualizelayout.png" alt="Datawrapper tool layout page." width="750"/>
+
+Day 5 will include further instructions on how to share your visualization with the rest of the members of this cohort. 
+
+For more detailed, step by step instructions on creating a visualization, refer to the following resources:
+* [Datawrapper example chart (developed by Datawrapper)](https://docs.google.com/presentation/d/170qwtojbTUhqt8SFmWbYhisnHQ1dktjqi22gryE0xj4/edit?usp=sharing "Datawrapper example chart (developed by Datawrapper)")
+* [Datawrapper Knowledgebase](https://academy.datawrapper.de/ "Datawrapper Knowledgebase")
+* [Datawrapper FAQs](https://www.datawrapper.de/faq "Datawrapper FAQs")
+* 
