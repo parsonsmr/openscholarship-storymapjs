@@ -26,9 +26,14 @@ Consider:
 
 Watch Karen Eber's TEDx Talk, [Why storytelling is more trustworthy than presenting data](https://www.youtube.com/watch?v=Ez5yS4Q5ASA "Why storytelling is more trustworthy than presenting data") (13:55), for a more in depth explanation on why data storytelling is important. 
 
+On the other side of the coin, keep in mind that data stories can highlight and prioritize certain aspects of the data while hiding others. As Nathan Yau mentions in [“How to Spot Visualization Lies,”](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/ "How to Spot Visualization Lies,"):
+
+*“A chart doesn’t make something true. Data doesn’t make something true. It bends. It shows many things. So keep your eyes open.”* 
+
 ## Day 1 readings
-* Jack Dougherty and Ilya Ilyankou, Hands-On Data Visualization, ["Start Sketching Your Data Story"](https://handsondataviz.org/sketch.html "Start Sketching Your Data Story")
 * Stephanie Evergreen, ["A Masterclass in Data Storytelling"](https://stephanieevergreen.com/a-masterclass-in-data-storytelling/ "A Masterclass in Data Storytelling")
-* Kennedy Elliott, ["39 studies about human perception in 30 minutes"](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73 "39 studies about human perception in 30 minutes")
+* Nathan Yau, [“How to Spot Visualization Lies”](https://flowingdata.com/2017/02/09/how-to-spot-visualization-lies/ "How to Spot Visualization Lies")
+* If you have time: * Jack Dougherty and Ilya Ilyankou, Hands-On Data Visualization, ["Start Sketching Your Data Story"](https://handsondataviz.org/sketch.html "Start Sketching Your Data Story")
+* If you have time: Kennedy Elliott, ["39 studies about human perception in 30 minutes"](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73 "39 studies about human perception in 30 minutes")
 
 Whenever you're ready, proceed to [Day 2, Part 1](https://negeenaghassi.github.io/openscholarship-dataviz/day-2/day-2-part-1 "Day 2, Part 1") or [return to the homepage](https://negeenaghassi.github.io/openscholarship-dataviz/index.html "return to the homepage"). 
