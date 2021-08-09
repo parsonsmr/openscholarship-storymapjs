@@ -94,9 +94,9 @@ There are many tools, some proprietary and some open source, that can help with 
 
 The file format that your data is in depends on the data itself and how the data was collected. Some popular file formats include: 
 
-* Quantitative data: Comma-separated values (CSV, .csv), Excel (.xlsx) | example: counting salmon populations in the PNW 
-* Qualitative data: Plain text file (.txt) | example: interviews with health care providers during COVID-19
-* Geospatial: shape files (.shp) and Geographic JavaScript Object Notation (.json, .geojson) | example: school district lines 
+* Quantitative data: Comma-separated values (CSV, .csv), Excel (.xlsx), example: counting salmon populations in the PNW 
+* Qualitative data: Plain text file (.txt), example: interviews with health care providers during COVID-19
+* Geospatial: shape files (.shp) and Geographic JavaScript Object Notation (.json, .geojson), example: school district lines 
 
 While there are many more file formats, the ones above are the ones you will likely come across most frequently when starting out. 
 
