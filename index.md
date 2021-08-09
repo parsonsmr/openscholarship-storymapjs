@@ -11,8 +11,8 @@ This session will cover the basics of data visualization, including:
   * **Synchronous session: 12-1 pm Pacific, introductions, overview of the session** 
   * [Discussion post: introduce yourself!](https://github.com/negeenaghassi/osssdv/discussions/2 "Discussion post: introduce yourself!")
   * What is data? What is data visualization?
-  * Why visualize? 
   * Types of data
+  * Why visualize?
   * Chart types
   * Design principles
   * Basic math
